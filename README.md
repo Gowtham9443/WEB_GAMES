@@ -2,6 +2,34 @@
 
 A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Canvas API
+
+## ✨ Features
+
+* Responsive design
+* Mobile-friendly gameplay
+* Smooth animations
+* Score tracking
+* Interactive user interface
+
+
+## 👨‍💻 Developer
+
+**Gowtham M**
+MCA Student (Batch 2027)
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
+
+⭐ If you like these games, don't forget to star the repository!
+---
+
 ## 🚀 Games   
 
 ### 1. Space Shooter
@@ -25,39 +53,4 @@ Slice fruits quickly and avoid missing them to get the best score.
 **Demo:**
 [https://gowtham2025.neocities.org/WEB%20APP/fruit%20ninja/slice_rush_mobile](https://gowtham2025.neocities.org/WEB%20APP/fruit%20ninja/slice_rush_mobile)
 
-## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript
-* Canvas API
-
-## ✨ Features
-
-* Responsive design
-* Mobile-friendly gameplay
-* Smooth animations
-* Score tracking
-* Interactive user interface
-
-## 📂 Project Structure
-
-```text
-WEB_GAMES/
-│
-├── Space Shooter/
-├── Flappy Bird/
-├── Fruit Ninja/
-└── README.md
-```
-
-## 👨‍💻 Developer
-
-**Gowtham M**
-MCA Student (Batch 2027)
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
-⭐ If you like these games, don't forget to star the repository!
