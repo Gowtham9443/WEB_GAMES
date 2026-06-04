@@ -4,7 +4,7 @@ You can write your GitHub README like this:
 
 A collection of fun browser-based games created using HTML, CSS, and JavaScript.
 
-## 🚀 Games
+## 🚀 Games   
 
 ### 1. 🚀 Space Shooter
 
