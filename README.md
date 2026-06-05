@@ -33,7 +33,6 @@ This project is open-source and available under the MIT License.
 ## 🚀 Games   
 
 ### 1. Space Shooter
-
 **Demo:**
 [https://gowtham2025.neocities.org/web%20games/Space%20Shooter/galaxy_shooter](https://gowtham2025.neocities.org/web%20games/Space%20Shooter/galaxy_shooter)
 
