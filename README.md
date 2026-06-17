@@ -45,6 +45,7 @@ This project is open-source and available under the MIT License.
 [https://gowtham2025.neocities.org/WEB%20APP/fruit%20ninja/slice_rush_mobile](https://gowtham2025.neocities.org/WEB%20APP/fruit%20ninja/slice_rush_mobile)
 ---
 ### 4.Angry Birdz
-
+**Demo:**
+https://gowtham2025.neocities.org/web%20games/angry%20birds/angry_birds_v1
 ---
 
